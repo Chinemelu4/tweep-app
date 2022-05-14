@@ -1,0 +1,10 @@
+twint
+numpy
+pandas
+streamlit
+matplotlib
+textblob 
+wordcloud
+plotly
+nltk
+tensorflow-cpu
