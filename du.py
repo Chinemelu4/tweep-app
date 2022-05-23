@@ -14,7 +14,7 @@ import re
 from wordcloud import WordCloud,STOPWORDS
 import pickle
 stopwords=set(STOPWORDS)
-from functions import get_csv_download_link
+
 
 # Set page name and favicon
 st.set_page_config(page_title='Twitter scraper',page_icon=':iphone:')
