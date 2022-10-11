@@ -8,3 +8,8 @@ Focusing on the social media provider twitter, this prototype application helps 
 
 ## Improvements
 Build an ingestion pipeline to periodically extract tweets labelled by topics, check performance against present model and retrain model when their is model decay or data drift.
+
+![Alt text](./imgs1.png?raw=true "Optional Title")
+![Alt text](./imgs2.png?raw=true "Optional Title")
+![Alt text](./imgs3.png?raw=true "Optional Title")
+![Alt text](./imgs4.png?raw=true "Optional Title")
